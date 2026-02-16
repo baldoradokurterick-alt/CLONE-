@@ -1,8 +1,4 @@
-﻿
-
-Public Class LOGINForm
-
-
+﻿Public Class LOGINForm
 
     Private Sub LOGINForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 

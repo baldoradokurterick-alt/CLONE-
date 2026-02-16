@@ -135,9 +135,7 @@
     <Compile Include="Resources\DashboardForm.Designer.vb">
       <DependentUpon>DashboardForm.vb</DependentUpon>
     </Compile>
-    <Compile Include="Resources\DashboardForm.vb">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="Resources\DashboardForm.vb" />
     <Compile Include="Resources\dashdash.Designer.vb">
       <DependentUpon>dashdash.vb</DependentUpon>
     </Compile>
@@ -150,6 +148,9 @@
     <Compile Include="Resources\LOGINForm.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Resources\stockcontroller.vb" />
+    <Compile Include="Resources\StocksItem.vb" />
+    <Compile Include="StockItem.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="NAVIGATION\addStock.resx">
