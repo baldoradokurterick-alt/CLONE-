@@ -214,5 +214,8 @@
   <ItemGroup>
     <None Include="Resources\icon-removebg-preview.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Guna.UI2.dll" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
